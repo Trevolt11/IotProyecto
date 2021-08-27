@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(39, 100, 136) !important;
+    width: 960px;
+}
+
+.table{
+
+    
+    margin: 0 auto;
+    
+    border-radius: 10px;
+    text-align: left;
+
+    margin-top: 15px;
+
+    margin-left: 50%;
+
+
+}
+
+
